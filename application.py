@@ -9,7 +9,7 @@ Salut **DIT!** Comment allez vous ?
 """)
 
 # récupération d'un Dataframe à partir d'un fichier Excel
-df = pd.read_excel("patients_list.xlsx")
+# df = pd.read_excel("patients_list.xlsx")
 
 # tracé d'une courbe
 # st.line_chart(df)
