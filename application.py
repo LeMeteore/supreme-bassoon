@@ -21,7 +21,7 @@ h = Hello()
 h.hello()
 '''
 
-st.image('./sunrise.jpg', caption='Sunrise by the mountains')
+# st.image('./sunrise.jpg', caption='Sunrise by the mountains')
 
 # appel de la fonction code pour afficher le code se trouvant ds la chaine
 # de caractère, je peux préciser le langage utilisé
